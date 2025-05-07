@@ -1,0 +1,16 @@
+{
+  "name": "my-parcel-app",
+  "source": "index.html",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
